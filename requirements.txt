@@ -1,0 +1,5 @@
+pyttsx3
+tesseract
+pytesseract
+opencv-python
+pyaudio
